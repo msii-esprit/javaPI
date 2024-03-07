@@ -1,0 +1,17 @@
+<component name="libraryTable">
+  <library name="lib">
+    <CLASSES>
+      <root url="file://D:/9rayet_Esprit/4eme/Enregistrement/javafx-sdk-21.0.2/lib" />
+      <root url="jar://$PROJECT_DIR$/jar/mysql-connector.jar!/" />
+      <root url="jar://$PROJECT_DIR$/jar/ojdbc11.jar!/" />
+      <root url="jar://$PROJECT_DIR$/jar/mysql-connector-j-8.3.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/jar/itextpdf-5.5.9.jar!/" />
+      <root url="jar://$PROJECT_DIR$/jar/jfoenix-8.0.10.jar!/" />
+      <root url="jar://$PROJECT_DIR$/jar/activation-1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/jar/javax.mail-1.6.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <jarDirectory url="file://D:/9rayet_Esprit/4eme/Enregistrement/javafx-sdk-21.0.2/lib" recursive="false" />
+  </library>
+</component>
