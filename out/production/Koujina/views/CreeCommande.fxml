@@ -71,7 +71,7 @@
                                     <Font name="Cambria" size="36.0" />
                                  </font>
                               </Label>
-                              <Label fx:id="fruitPriceLabel" prefHeight="57.0" prefWidth="171.0" text="\$2.99" textFill="#030303">
+                              <Label fx:id="fruitPriceLabel" prefHeight="57.0" prefWidth="171.0" text="DT2.99" textFill="#030303">
                                  <font>
                                     <Font name="Cambria" size="36.0" />
                                  </font>

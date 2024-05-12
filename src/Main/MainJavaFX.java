@@ -13,7 +13,7 @@ public class MainJavaFX extends Application {
     public static final String CURRENCY = "$";
     @Override
     public void start(Stage primaryStage) throws IOException {
-        Parent root = FXMLLoader.load(getClass().getResource("../views/CreeCommande.fxml"));
+        Parent root = FXMLLoader.load(getClass().getResource("../views/AfficherCommande.fxml"));
         primaryStage.setTitle("Koujina");
         primaryStage.setScene(new Scene(root));
         primaryStage.show();
